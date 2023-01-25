@@ -2,7 +2,7 @@
 
 <p align="left">
 
-- I’m loving [Phalcon](https://github.com/phalcon/cphalcon)
+- I really love [Phalcon](https://github.com/phalcon/cphalcon)
 - I’m currently "sawing" [phalcon auth](https://github.com/sinbadxiii/phalcon-auth)
 
 </p>
